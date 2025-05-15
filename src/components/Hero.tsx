@@ -40,7 +40,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.1 }}
             >
-             <span className="gradient-text">Ankit kr. Thakur</span>
+             <span className="gradient-text">Ankit Kr. Thakur</span>
             </motion.h1>
             
             <motion.p 
@@ -49,7 +49,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              MBA Student & enthusiast of finance....
+              MBA Student & Enthusiast of Finance....
             </motion.p>
             
             <motion.div 
